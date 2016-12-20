@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'devise', '~> 4.2'
-
+gem 'paperclip', '~> 5.1'
 
 
 
